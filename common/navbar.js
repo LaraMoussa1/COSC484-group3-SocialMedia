@@ -66,4 +66,4 @@ function addNavbar() {
   if (btn) btn.onclick = () => { logout(); location.reload(); };
 }
 
-export default addNavbar;
+export default addNavbar; 
