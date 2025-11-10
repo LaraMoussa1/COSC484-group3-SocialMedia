@@ -14,4 +14,4 @@ form.addEventListener("submit", (e) => {
   } catch (ex) {
     err.textContent = ex.message || "Login failed";
   }
-});
+}); 
